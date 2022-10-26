@@ -1,5 +1,5 @@
 import { combineReducers, configureStore } from '@reduxjs/toolkit';
-import logger from 'redux-logger';
+//import logger from 'redux-logger';
 import usersReducer from './features/users/usersSlice';
 import postsReducer from './features/posts/postSlice';
 import commentsReducer from './features/comments/commentsSlice';
