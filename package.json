@@ -1,6 +1,11 @@
 {
-  "name": "blog-app",
-  "version": "0.1.0",
+  "name": "react-blog-app-with-jsonplaceholder",
+  "description": "This is a simple blog app that uses React and JSONPlaceholder API to fetch data",
+  "author": {
+    "name": "Muhammad Shumail Ansari",
+    "email": "shuraimhassan94@gmail.com"
+  },
+  "version": "0.1.1",
   "private": true,
   "dependencies": {
     "@reduxjs/toolkit": "^1.8.4",
